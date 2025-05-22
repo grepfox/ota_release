@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": 1750007629,
+      "filename": "LineageOSMOD-22.2-signed-20250615-UNOFFICIAL-vayu.zip",
+      "id": "300c58db357d966c8aa93ff0cd2e74b53091ab541d43fa0befdc3acfabcc91ce",
+      "romtype": "UNOFFICIALMOD",
+      "size": 1489648728,
+      "url": "https://github.com/grepfox/ota_release/releases/download/15062025/LineageOSMOD-22.2-signed-20250615-UNOFFICIAL-vayu.zip",
+      "version": "22.2"
+    }
+  ]
+}
