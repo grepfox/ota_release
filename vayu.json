@@ -1,12 +1,12 @@
 {
-  "reponse": [
+  "repsone": [
     {
-      "datetime": 1748044800,
-      "filename": "lineage-22.2-signed-20250524-UNOFFICIAL-vayu.zip",
-      "id": "1d490933b369121ab61c51ce3ec18c05cfe46edba94e0bc92b9f5e2db667bad5",
+      "datetime": 1748822400,
+      "filename": "lineage-22.2-signed-20250602-UNOFFICIAL-vayu.zip",
+      "id": "d6c31de928766914b57069c836fa578f03886a8a6ef839fa156ab6c9cdef0faa",
       "romtype": "nightly",
-      "size": 1488029574,
-      "url": "https://github.com/grepfox/ota_release/releases/download/24052025/lineage-22.2-signed-20250524-UNOFFICIAL-vayu.zip",
+      "size": 1501530857,
+      "url": "https://mirrorbits.lineageos.org/full/vayu/20250602/lineage-22.2-signed-20250602-UNOFFICIAL-vayu.zip",
       "version": "22.2"
     }
   ]
