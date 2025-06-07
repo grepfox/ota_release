@@ -1,3 +1,15 @@
+06-06-2025
+- June Security patch
+- Allow changing icon text/font size
+- Optimize animations in launcher
+- Introduce overview scrolling scale animation
+- Redesign recents overview
+- Use font configs
+- Switch back to nabu adreno
+- Fix fp sensor location
+- Add CPU/FPS info tile
+- Misc fixes and improvements
+
 02-06-2025
 - Allow to disable window secure flag
 - Disable useless debugs
