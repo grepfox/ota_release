@@ -1,4 +1,9 @@
-06-06-2025
+09-06-2025
+- Fix Annoying GPS blobs spam
+- Add LMOFreeform
+- Misc fixes and improvements
+
+07-06-2025
 - June Security patch
 - Allow changing icon text/font size
 - Optimize animations in launcher
