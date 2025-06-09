@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1749308382,
-      "filename": "LineageOSMOD-22.2-signed-20250607-UNOFFICIAL-vayu.zip",
-      "id": "c28910f5ca5185c19f8f170b3a033b1ff16030ccb2138986e2581af1a4b0aa6d",
+      "datetime": 1749488549,
+      "filename": "LineageOSMOD-22.2-signed-20250609-UNOFFICIAL-vayu.zip",
+      "id": "78d53287b3fc334ab3145deea39ea2987de494e0f04644ee4416e15359e6c267",
       "romtype": "nightly",
-      "size": 1492479529,
-      "url": "https://github.com/grepfox/ota_release/releases/download/07062025/LineageOSMOD-22.2-signed-20250607-UNOFFICIAL-vayu.zip",
+      "size": 1489589006,
+      "url": "https://github.com/grepfox/ota_release/releases/download/09062025/LineageOSMOD-22.2-signed-20250609-UNOFFICIAL-vayu.zip",
       "version": "22.2"
     }
   ]
